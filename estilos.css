@@ -1,0 +1,41 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background: 
+}
+
+.form{
+	width: 400px;
+	background: #22949E;
+	padding: 30px;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 4px;
+	font-family: 'calibri';
+	color: white;
+}
+.form h4{
+	font-size: 22px;
+	margin-bottom: 20x;
+}
+.control{
+	width: 100%;
+	background: #1BC5D4;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 15px;
+	border: 1px, solid 
+	font-family: 'verdana';
+	font-size: 18px;
+}
+.form .boton{
+	width: 24%;
+	background: #110250;
+	border: none;
+	padding: 10px;
+	color: white;
+	font-size: 13px;
+	margin: 16px 0px;
+
+}
